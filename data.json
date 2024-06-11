@@ -6,15 +6,15 @@
       "nomor_meja": "A1",
       "jumlah_people": 4,
       "pilihan_tempat": "indoor",
-      "status_tempat": 1
+      "status_tempat": 0
     },
     {
       "id_asset_toko": 2,
       "id_toko": 1,
       "nomor_meja": "A2",
-      "jumlah_people": 2,
+      "jumlah_people": 6,
       "pilihan_tempat": "outdoor",
-      "status_tempat": 0
+      "status_tempat": 1
     },
     {
       "id_asset_toko": 3,
@@ -22,7 +22,7 @@
       "nomor_meja": "A3",
       "jumlah_people": 6,
       "pilihan_tempat": "indoor",
-      "status_tempat": 1
+      "status_tempat": 0
     },
     {
       "id_asset_toko": 4,
@@ -38,7 +38,7 @@
       "nomor_meja": "B1",
       "jumlah_people": 4,
       "pilihan_tempat": "indoor",
-      "status_tempat": 1
+      "status_tempat": 0
     },
     {
       "id_asset_toko": 6,
