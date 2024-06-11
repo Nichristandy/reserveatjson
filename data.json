@@ -1,0 +1,281 @@
+{
+  "assets": [
+    {
+      "id_asset_toko": 1,
+      "id_toko": 1,
+      "nomor_meja": "A1",
+      "jumlah_people": 4,
+      "pilihan_tempat": "indoor",
+      "status_tempat": 1
+    },
+    {
+      "id_asset_toko": 2,
+      "id_toko": 1,
+      "nomor_meja": "A2",
+      "jumlah_people": 2,
+      "pilihan_tempat": "outdoor",
+      "status_tempat": 0
+    },
+    {
+      "id_asset_toko": 3,
+      "id_toko": 1,
+      "nomor_meja": "A3",
+      "jumlah_people": 6,
+      "pilihan_tempat": "indoor",
+      "status_tempat": 1
+    },
+    {
+      "id_asset_toko": 4,
+      "id_toko": 1,
+      "nomor_meja": "A4",
+      "jumlah_people": 2,
+      "pilihan_tempat": "outdoor",
+      "status_tempat": 0
+    },
+    {
+      "id_asset_toko": 5,
+      "id_toko": 1,
+      "nomor_meja": "B1",
+      "jumlah_people": 4,
+      "pilihan_tempat": "indoor",
+      "status_tempat": 1
+    },
+    {
+      "id_asset_toko": 6,
+      "id_toko": 1,
+      "nomor_meja": "B2",
+      "jumlah_people": 2,
+      "pilihan_tempat": "outdoor",
+      "status_tempat": 0
+    },
+    {
+      "id_asset_toko": 7,
+      "id_toko": 1,
+      "nomor_meja": "B3",
+      "jumlah_people": 6,
+      "pilihan_tempat": "indoor",
+      "status_tempat": 1
+    },
+    {
+      "id_asset_toko": 8,
+      "id_toko": 1,
+      "nomor_meja": "B4",
+      "jumlah_people": 2,
+      "pilihan_tempat": "outdoor",
+      "status_tempat": 0
+    },
+    {
+      "id_asset_toko": 9,
+      "id_toko": 1,
+      "nomor_meja": "C1",
+      "jumlah_people": 4,
+      "pilihan_tempat": "indoor",
+      "status_tempat": 1
+    },
+    {
+      "id_asset_toko": 10,
+      "id_toko": 1,
+      "nomor_meja": "C2",
+      "jumlah_people": 2,
+      "pilihan_tempat": "outdoor",
+      "status_tempat": 0
+    }
+  ],
+  "menus": [
+    {
+      "id_menu": 1,
+      "id_toko": 1,
+      "nama_menu": "Nasi Goreng",
+      "harga_menu": 25000,
+      "desc_menu": "Fried rice with chicken and vegetables",
+      "gambar_menu": "nasi_goreng.jpg"
+    },
+    {
+      "id_menu": 2,
+      "id_toko": 1,
+      "nama_menu": "Ayam Bakar",
+      "harga_menu": 30000,
+      "desc_menu": "Grilled chicken with spices",
+      "gambar_menu": "ayam_bakar.jpg"
+    },
+    {
+      "id_menu": 3,
+      "id_toko": 1,
+      "nama_menu": "Sate Ayam",
+      "harga_menu": 35000,
+      "desc_menu": "Chicken satay with peanut sauce",
+      "gambar_menu": "sate_ayam.jpg"
+    },
+    {
+      "id_menu": 4,
+      "id_toko": 1,
+      "nama_menu": "Mie Goreng",
+      "harga_menu": 20000,
+      "desc_menu": "Fried noodles with vegetables and eggs",
+      "gambar_menu": "mie_goreng.jpg"
+    },
+    {
+      "id_menu": 5,
+      "id_toko": 1,
+      "nama_menu": "Gado-Gado",
+      "harga_menu": 25000,
+      "desc_menu": "Vegetable salad with peanut sauce",
+      "gambar_menu": "gado_gado.jpg"
+    },
+    {
+      "id_menu": 6,
+      "id_toko": 1,
+      "nama_menu": "Rendang",
+      "harga_menu": 40000,
+      "desc_menu": "Spicy beef stew",
+      "gambar_menu": "rendang.jpg"
+    },
+    {
+      "id_menu": 7,
+      "id_toko": 1,
+      "nama_menu": "Soto Ayam",
+      "harga_menu": 25000,
+      "desc_menu": "Chicken soup with turmeric broth",
+      "gambar_menu": "soto_ayam.jpg"
+    },
+    {
+      "id_menu": 8,
+      "id_toko": 1,
+      "nama_menu": "Bakso",
+      "harga_menu": 20000,
+      "desc_menu": "Meatball soup",
+      "gambar_menu": "bakso.jpg"
+    },
+    {
+      "id_menu": 9,
+      "id_toko": 1,
+      "nama_menu": "Nasi Uduk",
+      "harga_menu": 15000,
+      "desc_menu": "Coconut rice with fried chicken",
+      "gambar_menu": "nasi_uduk.jpg"
+    },
+    {
+      "id_menu": 10,
+      "id_toko": 1,
+      "nama_menu": "Es Cendol",
+      "harga_menu": 10000,
+      "desc_menu": "Iced dessert with green jelly and coconut milk",
+      "gambar_menu": "es_cendol.jpg"
+    }
+  ],
+  "reservations": [
+    {
+      "id_reservasi": 1,
+      "id_user": 1,
+      "id_toko": 1,
+      "id_asset": 1,
+      "nomor_meja": "A1",
+      "jumlah_orang": 4,
+      "tanggal_reservasi": "2024-06-15",
+      "pilihan_tempat": "indoor"
+    },
+    {
+      "id_reservasi": 2,
+      "id_user": 2,
+      "id_toko": 1,
+      "id_asset": 2,
+      "nomor_meja": "A2",
+      "jumlah_orang": 2,
+      "tanggal_reservasi": "2024-06-16",
+      "pilihan_tempat": "outdoor"
+    }
+  ],
+  "stores": [
+    {
+      "id_toko": 1,
+      "id_user": 3,
+      "nama_toko": "Toko Makan Enak",
+      "alamat_toko": "Jl. Makanan No. 1",
+      "nomor_telpon_toko": "021-12345678"
+    }
+  ],
+  "users": [
+    {
+      "nama_user": "John Doe",
+      "id_user": 1,
+      "email_user": "john@example.com",
+      "no_telpon": "08123456789",
+      "role": "pelanggan"
+    },
+    {
+      "nama_user": "Jane Smith",
+      "id_user": 2,
+      "email_user": "jane@example.com",
+      "no_telpon": "08234567890",
+      "role": "pelanggan"
+    },
+    {
+      "nama_user": "Admin User",
+      "id_user": 3,
+      "email_user": "admin@example.com",
+      "no_telpon": "08345678901",
+      "role": "admin",
+      "password": "admin123"
+    },
+    {
+      "nama_user": "Cashier User",
+      "id_user": 4,
+      "email_user": "cashier@example.com",
+      "no_telpon": "08456789012",
+      "role": "cashier",
+      "password": "cashier123"
+    }
+  ],
+  "transaksi": [
+    {
+      "id_transaksi": 1,
+      "id_toko": 1,
+      "id_user": 1,
+      "id_menu": 1,
+      "id_reservasi": 1,
+      "harga": 25000,
+      "quantity": 2,
+      "status_transaksi": 1
+    },
+    {
+      "id_transaksi": 2,
+      "id_toko": 1,
+      "id_user": 1,
+      "id_menu": 2,
+      "id_reservasi": 1,
+      "harga": 30000,
+      "quantity": 1,
+      "status_transaksi": 1
+    },
+    {
+      "id_transaksi": 3,
+      "id_toko": 1,
+      "id_user": 2,
+      "id_menu": 3,
+      "id_reservasi": 2,
+      "harga": 35000,
+      "quantity": 3,
+      "status_transaksi": 0
+    },
+    {
+      "id_transaksi": 4,
+      "id_toko": 1,
+      "id_user": 2,
+      "id_menu": 4,
+      "id_reservasi": 2,
+      "harga": 20000,
+      "quantity": 2,
+      "status_transaksi": 1
+    },
+    {
+      "id_transaksi": 5,
+      "id_toko": 1,
+      "id_user": 1,
+      "id_menu": 5,
+      "id_reservasi": 1,
+      "harga": 25000,
+      "quantity": 1,
+      "status_transaksi": 1
+    }
+  ]
+}
