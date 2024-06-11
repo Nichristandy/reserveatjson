@@ -88,7 +88,8 @@
       "nama_menu": "Nasi Goreng",
       "harga_menu": 25000,
       "desc_menu": "Fried rice with chicken and vegetables",
-      "gambar_menu": "nasi_goreng.jpg"
+      "gambar_menu": "nasi_goreng.jpg",
+      "type" : "Main"
     },
     {
       "id_menu": 2,
@@ -97,6 +98,7 @@
       "harga_menu": 30000,
       "desc_menu": "Grilled chicken with spices",
       "gambar_menu": "ayam_bakar.jpg"
+      "type" : "Main"
     },
     {
       "id_menu": 3,
@@ -105,6 +107,7 @@
       "harga_menu": 35000,
       "desc_menu": "Chicken satay with peanut sauce",
       "gambar_menu": "sate_ayam.jpg"
+      "type" : "Main"
     },
     {
       "id_menu": 4,
@@ -113,6 +116,7 @@
       "harga_menu": 20000,
       "desc_menu": "Fried noodles with vegetables and eggs",
       "gambar_menu": "mie_goreng.jpg"
+      "type" : "Main"
     },
     {
       "id_menu": 5,
@@ -121,6 +125,7 @@
       "harga_menu": 25000,
       "desc_menu": "Vegetable salad with peanut sauce",
       "gambar_menu": "gado_gado.jpg"
+      "type" : "Main"
     },
     {
       "id_menu": 6,
@@ -129,6 +134,7 @@
       "harga_menu": 40000,
       "desc_menu": "Spicy beef stew",
       "gambar_menu": "rendang.jpg"
+      "type" : "Main"
     },
     {
       "id_menu": 7,
@@ -137,6 +143,7 @@
       "harga_menu": 25000,
       "desc_menu": "Chicken soup with turmeric broth",
       "gambar_menu": "soto_ayam.jpg"
+      "type" : "Main"
     },
     {
       "id_menu": 8,
@@ -145,6 +152,7 @@
       "harga_menu": 20000,
       "desc_menu": "Meatball soup",
       "gambar_menu": "bakso.jpg"
+      "type" : "Main"
     },
     {
       "id_menu": 9,
@@ -153,6 +161,7 @@
       "harga_menu": 15000,
       "desc_menu": "Coconut rice with fried chicken",
       "gambar_menu": "nasi_uduk.jpg"
+      "type" : "Main"
     },
     {
       "id_menu": 10,
@@ -161,6 +170,7 @@
       "harga_menu": 10000,
       "desc_menu": "Iced dessert with green jelly and coconut milk",
       "gambar_menu": "es_cendol.jpg"
+      "type" : "Drink"
     }
   ],
   "reservations": [
